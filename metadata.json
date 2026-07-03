@@ -1,0 +1,6 @@
+{
+  "name": "AI Daily Life Assistant",
+  "description": "An elegant, Airbnb-inspired AI Daily Life Assistant combining travel planning, local exploration search, household finance, wellness trackers, and an intelligent co-pilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
